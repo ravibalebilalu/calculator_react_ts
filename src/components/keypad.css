@@ -1,0 +1,13 @@
+.keypad{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: start;
+    align-items: start;
+    gap: 4px;
+    width: 350px;
+    margin-left: 20px;
+}
+
+.buttonkey{
+    
+}

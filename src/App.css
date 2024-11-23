@@ -1,0 +1,9 @@
+ .app{
+    height: 500px;
+    width: 500px;
+    background-color: rgb(75, 69, 69);
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
